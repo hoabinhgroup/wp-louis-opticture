@@ -1,0 +1,240 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Louis Opticture\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-20 08:07+0000\n"
+"PO-Revision-Date: 2022-12-21 02:43+0000\n"
+"Last-Translator: \n"
+"Language-Team: Tiếng Việt\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: louis-image-compressors\n"
+
+msgid "Backup ảnh"
+msgstr "Backup ảnh"
+
+msgid ""
+"Bạn cần có bản sao lưu đang hoạt động để có thể khôi phục hình ảnh về bản "
+"gốc."
+msgstr ""
+"Bạn cần có bản sao lưu đang hoạt động để có thể khôi phục hình ảnh về bản "
+"gốc."
+
+msgid ""
+"Bạn nên sử dụng tính năng này cho các ảnh lớn, như ảnh được chụp bằng điện "
+"thoại hay máy ảnh kỹ thuật số. Dung lượng được tiết kiệm có thể tăng lên đến "
+"80% hoặc hơn sau khi thay đổi kích thước."
+msgstr ""
+"Bạn nên sử dụng tính năng này cho các ảnh lớn, như ảnh được chụp bằng điện "
+"thoại hay máy ảnh kỹ thuật số. Dung lượng được tiết kiệm có thể tăng lên đến "
+"80% hoặc hơn sau khi thay đổi kích thước."
+
+msgid "Chào %s, bạn có thể tiến hành tối ưu ảnh trong thư viện ngay"
+msgstr "Chào %s, bạn có thể tiến hành tối ưu ảnh trong thư viện ngay"
+
+msgid ""
+"Chúng tôi khuyên bạn nên tối ưu hóa các ảnh thumbnail vì chúng thường là "
+"những hình ảnh được người dùng cuối xem nhiều nhất và có thể tạo ra nhiều "
+"lưu lượng truy cập nhất."
+msgstr ""
+"Chúng tôi khuyên bạn nên tối ưu hóa các ảnh thumbnail vì chúng thường là "
+"những hình ảnh được người dùng cuối xem nhiều nhất và có thể tạo ra nhiều "
+"lưu lượng truy cập nhất."
+
+msgid "Chọn các loại ảnh thumbnail bạn muốn tối ưu"
+msgstr "Chọn các loại ảnh thumbnail bạn muốn tối ưu"
+
+msgid "Chọn kiểu nén ảnh"
+msgstr "Chọn kiểu nén ảnh"
+
+msgid "Cài đặt chung"
+msgstr "Cài đặt chung"
+
+msgid "dung lượng ban đầu"
+msgstr "dung lượng ban đầu"
+
+msgid "Giảm kích thước ảnh lớn"
+msgstr "Giảm kích thước ảnh lớn"
+
+#. Author URI of the plugin
+msgid "https://louiscms.com"
+msgstr ""
+
+msgid "Khôi phục ảnh"
+msgstr "Khôi phục ảnh"
+
+#. Name of the plugin
+msgid "Louis Opticture"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Louis Opticture optimizes images while ensuring quality for your photos. "
+"Check in <a href=\"/wp-admin/options-general.php?page=image-compressors\">"
+"settings</a> to see how to optimize for images and make your website run "
+"faster."
+msgstr ""
+"LouisOpticture tối ưu hóa hình ảnh mà vẫn đảm bảo chất lượng cho bức ảnh của "
+"bạn. Kiểm tra <a href=“/wp-admin/options-General.php?page=image-compressors”>"
+"cài đặt</a> để xem cách tối ưu hóa hình ảnh và làm cho trang web của bạn "
+"chạy nhanh hơn."
+
+#. URI of the plugin
+msgid "louis-image-compressors"
+msgstr ""
+
+msgid "Lưu cài đặt"
+msgstr "Lưu cài đặt"
+
+msgid "Lưu và giữ bản sao lưu các hình ảnh gốc trong 1 thư mục riêng biệt"
+msgstr "Lưu và giữ bản sao lưu các hình ảnh gốc trong 1 thư mục riêng biệt"
+
+msgid "Lỗi file ảnh tối ưu rỗng"
+msgstr "Lỗi file ảnh tối ưu rỗng"
+
+msgid "Mật khẩu chưa trùng khớp"
+msgstr "Mật khẩu chưa trùng khớp"
+
+msgid "Nhập email bạn"
+msgstr "Nhập email bạn"
+
+msgid "Nhập lại mật khẩu"
+msgstr "Nhập lại mật khẩu"
+
+msgid "Nhập mật khẩu"
+msgstr "Nhập mật khẩu"
+
+msgid "Nhập tên bạn"
+msgstr "Nhập tên bạn"
+
+msgid "Nâng cao"
+msgstr "Nâng cao"
+
+msgid ""
+"Nén kiểu gần Lossless : tạo ra hình ảnh gần như hoàn hảo từng pixel so với "
+"ảnh gốc. Tùy chọn tốt nhất cho các nhiếp ảnh gia và các chuyên gia khác sử "
+"dụng hình ảnh chất lượng rất cao trên trang web và muốn nén ảnh tốt nhất "
+"trong khi vẫn giữ chất lượng không bị ảnh hưởng."
+msgstr ""
+"Nén kiểu gần Lossless : tạo ra hình ảnh gần như hoàn hảo từng pixel so với "
+"ảnh gốc. Tùy chọn tốt nhất cho các nhiếp ảnh gia và các chuyên gia khác sử "
+"dụng hình ảnh chất lượng rất cao trên trang web và muốn nén ảnh tốt nhất "
+"trong khi vẫn giữ chất lượng không bị ảnh hưởng."
+
+msgid ""
+"Nén kiểu Lossless: sử dụng thuật toán cho hình ảnh kết quả giống pixel so "
+"với ảnh gốc. Đảm bảo rằng không có một pixel nào trong hình ảnh được tối ưu "
+"hóa trông khác so với hình ảnh gốc. Trong một số trường hợp đặc biệt, bạn sẽ "
+"cần sử dụng kiểu nén này. Một số bản vẽ kỹ thuật hoặc hình ảnh từ đồ họa "
+"vector là những tình huống có thể xảy ra."
+msgstr ""
+"Nén kiểu Lossless: sử dụng thuật toán cho hình ảnh kết quả giống pixel so "
+"với ảnh gốc. Đảm bảo rằng không có một pixel nào trong hình ảnh được tối ưu "
+"hóa trông khác so với hình ảnh gốc. Trong một số trường hợp đặc biệt, bạn sẽ "
+"cần sử dụng kiểu nén này. Một số bản vẽ kỹ thuật hoặc hình ảnh từ đồ họa "
+"vector là những tình huống có thể xảy ra."
+
+msgid ""
+"Nén Lossy (khuyến nghị): cung cấp tốc độ nén tốt nhất. Đây là tùy chọn được "
+"đề xuất cho hầu hết người dùng, tạo ra kết quả giống như bản gốc đối với mắt "
+"người."
+msgstr ""
+"Nén Lossy (khuyến nghị): cung cấp tốc độ nén tốt nhất. Đây là tùy chọn được "
+"đề xuất cho hầu hết người dùng, tạo ra kết quả giống như bản gốc đối với mắt "
+"người."
+
+msgid "Nén ảnh thumbnail đi kèm"
+msgstr "Nén ảnh thumbnail đi kèm"
+
+msgid "Nếu bạn đã có tài khoản xin đăng nhập để tiến hành tối ưu ảnh"
+msgstr "Nếu bạn đã có tài khoản xin đăng nhập để tiến hành tối ưu ảnh"
+
+msgid ""
+"pixels theo chiều cao (tỷ lệ ảnh được giữ nguyên và hình ảnh không bị cắt)"
+msgstr ""
+"pixels theo chiều cao (tỷ lệ ảnh được giữ nguyên và hình ảnh không bị cắt)"
+
+msgid "pixels theo chiều rộng"
+msgstr "pixels theo chiều rộng"
+
+msgid "So sánh"
+msgstr "So sánh"
+
+msgid "So sánh ảnh trước và sau khi tối ưu"
+msgstr "So sánh ảnh trước và sau khi tối ưu"
+
+msgid "Thiết lập thời gian lưu bộ nhớ đệm cho hệ thống"
+msgstr "Thiết lập thời gian lưu bộ nhớ đệm cho hệ thống"
+
+msgid "Thống kê dựa trên số ảnh JPEG và PNG trong thư viện"
+msgstr "Thống kê dựa trên số ảnh JPEG và PNG trong thư viện"
+
+msgid "Thời gian Cache"
+msgstr "Thời gian Cache"
+
+msgid "Thời gian Cache ứng dụng mặc định là 10800 (3h)"
+msgstr "Thời gian Cache ứng dụng mặc định là 10800 (3h)"
+
+msgid "Tiết kiệm được %s dung lượng"
+msgstr "Tiết kiệm được %s dung lượng"
+
+#. Author of the plugin
+msgid "Tuấn Louis"
+msgstr ""
+
+msgid "Tín dụng"
+msgstr "Tín dụng"
+
+msgid "tối đa"
+msgstr "tối đa"
+
+#: admin/partials/progress.php:5
+msgid "Tối ưu hình ảnh trong thư viện"
+msgstr "Tối ưu hình ảnh trong thư viện"
+
+msgid "Tối ưu hóa ảnh"
+msgstr "Tối ưu hóa ảnh"
+
+msgid "Tối ưu ngay"
+msgstr "Tối ưu ngay"
+
+msgid "Tối ưu ảnh"
+msgstr "Tối ưu ảnh"
+
+msgid "Tổng số dung lượng đã giảm"
+msgstr "Tổng số dung lượng đã giảm"
+
+msgid "Xin nhập email"
+msgstr "Xin nhập email"
+
+msgid "Xin nhập lại mật khẩu"
+msgstr "Xin nhập lại mật khẩu"
+
+msgid "Xin nhập mật khẩu"
+msgstr "Xin nhập mật khẩu"
+
+msgid "Xin nhập tên bạn"
+msgstr "Xin nhập tên bạn"
+
+msgid "Áp dụng nén cho cả %1$s (Tổng số %2$s ảnh thumbnails cần tối ưu)"
+msgstr "Áp dụng nén cho cả %1$s (Tổng số %2$s ảnh thumbnails cần tối ưu)"
+
+msgid "Đã giảm %1$s dung lượng (%2$s)"
+msgstr "Đã giảm %1$s dung lượng (%2$s)"
+
+msgid "Đăng ký tài khoản"
+msgstr "Đăng ký tài khoản"
+
+msgid "Định dạng email chưa đúng"
+msgstr "Định dạng email chưa đúng"
+
+msgid "Ảnh chưa tối ưu"
+msgstr "Ảnh chưa tối ưu"
+
+msgid "Ảnh đã tối ưu"
+msgstr "Ảnh đã tối ưu"
